@@ -1,2 +1,8 @@
 /sbt_sample/*/target
 /sbt_sample/*/project/target
+/IntelliJ_sample/*/out
+/IntelliJ_sample/*/target
+/IntelliJ_sample/*/project/out
+/IntelliJ_sample/*/project/target
+/IntelliJ_sample/*/.idea
+
